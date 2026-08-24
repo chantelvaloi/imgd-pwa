@@ -1,0 +1,52 @@
+[
+  {
+    "id": "evt-1",
+    "title": "Community Food Drive",
+    "date": "2026-08-29",
+    "time": "09:00",
+    "location": "Main Hall",
+    "description": "Join us as we pack and distribute meal boxes for families in our neighborhood. All ages welcome — bring a friend and a box of canned goods if you can.",
+    "category": "Outreach",
+    "image": "https://picsum.photos/seed/fooddrive/800/600"
+  },
+  {
+    "id": "evt-2",
+    "title": "Young Adults Bonfire Night",
+    "date": "2026-09-04",
+    "time": "18:30",
+    "location": "Church Courtyard",
+    "description": "An evening of worship, s'mores, and honest conversation for ages 18-30. Bring a chair if you have one.",
+    "category": "Youth",
+    "image": "https://picsum.photos/seed/bonfire/800/600"
+  },
+  {
+    "id": "evt-3",
+    "title": "Marriage Enrichment Workshop",
+    "date": "2026-09-12",
+    "time": "10:00",
+    "location": "Room 204",
+    "description": "A half-day workshop for couples at any stage of marriage, led by Pastor James and Naomi Cole. Childcare provided.",
+    "category": "Family",
+    "image": "https://picsum.photos/seed/marriage/800/600"
+  },
+  {
+    "id": "evt-4",
+    "title": "Baptism Sunday",
+    "date": "2026-09-20",
+    "time": "10:30",
+    "location": "Main Sanctuary",
+    "description": "Celebrate with those taking their next step in faith. If you're considering baptism, speak to any usher after service.",
+    "category": "Worship",
+    "image": "https://picsum.photos/seed/baptism/800/600"
+  },
+  {
+    "id": "evt-5",
+    "title": "Kids Club Fall Kickoff",
+    "date": "2026-09-27",
+    "time": "10:30",
+    "location": "Children's Wing",
+    "description": "A new season of Kids Club begins with games, worship, and a Bible adventure series for ages 4-11.",
+    "category": "Kids",
+    "image": "https://picsum.photos/seed/kidsclub/800/600"
+  }
+]

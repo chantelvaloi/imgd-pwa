@@ -1,0 +1,50 @@
+[
+  {
+    "id": "srm-1",
+    "title": "Rooted: Finding Steady Ground",
+    "speaker": "Pastor James Cole",
+    "date": "2026-08-17",
+    "series": "Rooted",
+    "durationMinutes": 38,
+    "scripture": "Colossians 2:6-7",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "thumbnail": "https://picsum.photos/seed/sermon1/800/450",
+    "description": "What does it mean to be rooted in Christ when life feels unsteady? Pastor James opens up Colossians 2 to show us how a grounded faith grows."
+  },
+  {
+    "id": "srm-2",
+    "title": "Rooted: The Soil of Community",
+    "speaker": "Pastor Naomi Cole",
+    "date": "2026-08-10",
+    "series": "Rooted",
+    "durationMinutes": 41,
+    "scripture": "Acts 2:42-47",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "thumbnail": "https://picsum.photos/seed/sermon2/800/450",
+    "description": "Faith was never meant to grow alone. A look at what the early church can teach us about real community."
+  },
+  {
+    "id": "srm-3",
+    "title": "Rooted: Weathering the Storms",
+    "speaker": "Pastor James Cole",
+    "date": "2026-08-03",
+    "series": "Rooted",
+    "durationMinutes": 35,
+    "scripture": "Matthew 7:24-27",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "thumbnail": "https://picsum.photos/seed/sermon3/800/450",
+    "description": "Storms reveal what we've built on. A practical message on building a life on a firm foundation."
+  },
+  {
+    "id": "srm-4",
+    "title": "Grace for the Weary",
+    "speaker": "Guest Speaker: Dr. Elias Munroe",
+    "date": "2026-07-27",
+    "series": "Standalone",
+    "durationMinutes": 44,
+    "scripture": "Matthew 11:28-30",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "thumbnail": "https://picsum.photos/seed/sermon4/800/450",
+    "description": "A tender message for anyone running on empty — an invitation to rest in grace."
+  }
+]

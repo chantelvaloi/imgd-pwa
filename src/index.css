@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Fraunces", ui-serif, Georgia, serif;
+  --font-body: "Inter", ui-sans-serif, system-ui, sans-serif;
+
+  --color-ink: #1B2340;
+  --color-ink-light: #2B3A63;
+  --color-gold: #C89B3C;
+  --color-gold-light: #E0BE73;
+  --color-cream: #FAF7F1;
+  --color-cream-dim: #F0EAE0;
+  --color-teal: #3F6659;
+  --color-teal-light: #557D6E;
+  --color-rose: #C97B84;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  background-color: var(--color-cream);
+  color: var(--color-ink);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Hide scrollbar on horizontal chip/scroll rows but keep scrollable */
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+/* Arch shape utility used as the app's signature motif */
+.arch {
+  border-radius: 999px 999px 12px 12px;
+}

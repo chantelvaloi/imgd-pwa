@@ -1,0 +1,23 @@
+[
+  {
+    "id": "upd-1",
+    "title": "New parking available on Elm Street",
+    "date": "2026-08-20",
+    "body": "Starting this Sunday, overflow parking is available one block down on Elm Street. Look for the volunteers with orange vests to guide you in.",
+    "image": "https://picsum.photos/seed/parking/800/500"
+  },
+  {
+    "id": "upd-2",
+    "title": "Building fund update: 68% to goal",
+    "date": "2026-08-15",
+    "body": "Thank you for your generosity — we're now 68% of the way to our building fund goal. Join us for a giving update this Sunday after service.",
+    "image": "https://picsum.photos/seed/building/800/500"
+  },
+  {
+    "id": "upd-3",
+    "title": "Fall small groups sign-up now open",
+    "date": "2026-08-11",
+    "body": "Small groups are the best way to grow in community. Sign-ups for the fall semester are open now through the Connect desk or online.",
+    "image": "https://picsum.photos/seed/smallgroups/800/500"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "Igreja Ministério da Graça de Deus",
+  "tagline": "Amor e Perdão", 
+  "about": "Grace Fellowship has been serving our community since 1998. We're a diverse family of believers dedicated to worship, discipleship, and serving our neighbors with love. Whether you're exploring faith for the first time or you've walked with God for years, there's a seat for you here.",
+  "address": "Av. Joaquim Chissano, nº 58, Matola 'H', Maputo - Moçambique",
+  "mapUrl": "https://maps.app.goo.gl/JoEGpbmB2cQEsvK56",
+  "phone": "+258 84 123 4567",
+  "email": "info.imgd@gmail.com",
+  "serviceTimes": [
+    { "day": "Domingo", "time": "08:00", "label": "Culto de Domingo" },
+    { "day": "Sábado", "time": "09:00", "label": "Registo para Linha de Oração" },
+    { "day": "Sábado", "time": "09:00", "label": "Registo para Testemunho" },
+    { "day": "Sábado", "time": "12:00", "label": "Culto das Crianças" }
+  ],
+  "socials": [
+    { "platform": "instagram", "url": "https://www.instagram.com/apostolojeque" },
+    { "platform": "facebook", "url": "https://www.facebook.com/www.imgdjeque.org.mz/" },
+    { "platform": "youtube", "url": "https://www.youtube.com/@imgdvideos" }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "sh-1",
+    "title": "60 Seconds of Encouragement",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "thumbnail": "https://picsum.photos/seed/short1/400/700",
+    "durationSeconds": 58
+  },
+  {
+    "id": "sh-2",
+    "title": "This Week at Grace",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "thumbnail": "https://picsum.photos/seed/short2/400/700",
+    "durationSeconds": 45
+  },
+  {
+    "id": "sh-3",
+    "title": "Worship Moment: Great Is Thy Faithfulness",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "thumbnail": "https://picsum.photos/seed/short3/400/700",
+    "durationSeconds": 72
+  },
+  {
+    "id": "sh-4",
+    "title": "Ask a Pastor: Why Do We Pray?",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "thumbnail": "https://picsum.photos/seed/short4/400/700",
+    "durationSeconds": 90
+  }
+]
