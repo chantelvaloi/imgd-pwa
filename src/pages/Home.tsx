@@ -56,7 +56,7 @@ export default function Home() {
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-white/70" />
               <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-white" />
             </span>
-            <span className="text-sm font-semibold">Estamos em directo — participe</span>
+            <span className="text-sm font-semibold">Estamos em directo — Participe</span>
           </Link>
         )}
 
@@ -104,7 +104,7 @@ export default function Home() {
 
         {/* Shorts */}
         <section>
-          <SectionHeader title="Short & sweet" action={{ label: 'See all', to: '/watch' }} />
+          <SectionHeader title="Vídeos curtos" action={{ label: 'Ver todos', to: '/watch' }} />
           <div className="flex gap-3 px-4 overflow-x-auto no-scrollbar pb-1">
             {shorts.map((s) => (
               <ShortCard key={s.id} short={s} onClick={() => setActiveShort(s)} />
@@ -114,7 +114,7 @@ export default function Home() {
 
         {/* Recent sermons */}
         <section>
-          <SectionHeader title="Recent messages" action={{ label: 'See all', to: '/watch' }} />
+          <SectionHeader title="Poder de Deus" action={{ label: 'Ver todos', to: '/watch' }} />
           <div className="px-4 grid grid-cols-1 gap-3">
             {sermons.map((s) => (
               <SermonCard key={s.id} sermon={s} />
@@ -129,9 +129,9 @@ export default function Home() {
             className="flex items-center justify-between bg-[var(--color-teal)] text-white rounded-2xl px-4 py-3.5"
           >
             <span>
-              <span className="block text-sm font-semibold">New here?</span>
+              <span className="block text-sm font-semibold">Novo por aqui?</span>
               <span className="block text-xs text-white/80">
-                Get directions, service times & contact info
+                Informação de localização, horários e contactos
               </span>
             </span>
             <ChevronRight size={20} />

@@ -42,7 +42,7 @@ export default function Live() {
           <div className="px-4 py-4">
             <span className="inline-flex items-center gap-1.5 text-xs font-semibold text-[var(--color-rose)]">
               <span className="w-2 h-2 rounded-full bg-[var(--color-rose)] animate-pulse" />
-              LIVE NOW
+              AO VIVO
             </span>
             <h1 className="font-[var(--font-display)] text-xl font-semibold mt-1">
               {live.title}
@@ -64,7 +64,7 @@ export default function Live() {
           {live.replayUrl && (
             <div className="mt-8 text-left">
               <h2 className="text-sm font-semibold text-[var(--color-ink)]/70 mb-2 flex items-center gap-1.5">
-                <PlayCircle size={16} /> Watch the last service
+                <PlayCircle size={16} /> Acompanhe o último culto
               </h2>
               <div className="aspect-video rounded-xl overflow-hidden bg-black">
                 <iframe

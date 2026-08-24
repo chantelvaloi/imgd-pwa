@@ -21,7 +21,7 @@ export default function Events() {
 
   return (
     <div>
-      <TopBar title="Events" />
+      <TopBar title="Eventos" />
       <div className="flex gap-2 px-4 py-3 overflow-x-auto no-scrollbar">
         {categories.map((c) => (
           <button
@@ -40,7 +40,7 @@ export default function Events() {
       <div className="px-4 space-y-2.5 pb-4">
         {filtered.length === 0 && (
           <p className="text-center text-sm text-[var(--color-ink)]/50 py-10">
-            No events in this category yet — check back soon.
+            Sem nenhum evento nesta categoria ainda — check back soon.
           </p>
         )}
         {filtered.map((e) => (

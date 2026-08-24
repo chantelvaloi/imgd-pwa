@@ -19,7 +19,7 @@ export default function Watch() {
 
   return (
     <div>
-      <TopBar title="Watch" />
+      <TopBar title="Assista" />
       <div className="flex gap-2 px-4 py-3">
         {(['sermons', 'shorts'] as const).map((t) => (
           <button

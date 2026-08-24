@@ -21,10 +21,10 @@ export default function EventDetail() {
         <TopBar title="Event" showBack />
         <div className="px-4 py-10 text-center">
           <p className="text-[var(--color-ink)]/60">
-            We couldn't find that event. It may have already passed.
+            Oops... Não conseguimos encontrar esse evento, pode ter ocorrido.
           </p>
           <Link to="/events" className="text-[var(--color-teal)] font-medium mt-2 inline-block">
-            Back to events
+            Voltar para eventos
           </Link>
         </div>
       </div>

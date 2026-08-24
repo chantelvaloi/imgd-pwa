@@ -20,9 +20,9 @@ export default function SermonDetail() {
       <div>
         <TopBar title="Message" showBack />
         <div className="px-4 py-10 text-center">
-          <p className="text-[var(--color-ink)]/60">We couldn't find that message.</p>
+          <p className="text-[var(--color-ink)]/60">Não foi possível encontrar essa mensagem.</p>
           <Link to="/watch" className="text-[var(--color-teal)] font-medium mt-2 inline-block">
-            Back to Watch
+            Voltar
           </Link>
         </div>
       </div>
@@ -37,7 +37,7 @@ export default function SermonDetail() {
 
   return (
     <div>
-      <TopBar title="Message" showBack />
+      <TopBar title="Mensagem" showBack />
       <div className="aspect-video bg-black">
         <iframe
           src={sermon.videoUrl}

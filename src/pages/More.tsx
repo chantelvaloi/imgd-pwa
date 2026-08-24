@@ -38,7 +38,7 @@ export default function More() {
       {/* Service times */}
       <section className="px-4 py-5 border-b border-black/5">
         <h2 className="font-[var(--font-display)] text-lg font-semibold text-[var(--color-ink)] mb-3 flex items-center gap-2">
-          <Clock size={18} className="text-[var(--color-gold)]" /> Service times
+          <Clock size={18} className="text-[var(--color-gold)]" /> Eventos recorrentes
         </h2>
         <div className="space-y-2">
           {info.serviceTimes.map((s, i) => (
@@ -59,7 +59,7 @@ export default function More() {
       {/* Contact */}
       <section className="px-4 py-5 border-b border-black/5">
         <h2 className="font-[var(--font-display)] text-lg font-semibold text-[var(--color-ink)] mb-3">
-          Get in touch
+          Entre em contacto
         </h2>
         <div className="space-y-2.5">
           <a
@@ -109,7 +109,7 @@ export default function More() {
       {/* Updates */}
       <section className="px-4 py-5">
         <h2 className="font-[var(--font-display)] text-lg font-semibold text-[var(--color-ink)] mb-3">
-          Announcements
+          Anúncios
         </h2>
         <div className="space-y-3">
           {updates.map((u) => (

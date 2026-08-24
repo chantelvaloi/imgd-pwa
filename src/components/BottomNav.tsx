@@ -2,11 +2,11 @@ import { NavLink } from 'react-router-dom';
 import { Home, CalendarDays, PlayCircle, Radio, Menu } from 'lucide-react';
 
 const tabs = [
-  { to: '/', label: 'Home', icon: Home, end: true },
-  { to: '/events', label: 'Events', icon: CalendarDays, end: false },
-  { to: '/watch', label: 'Watch', icon: PlayCircle, end: false },
+  { to: '/', label: 'Início', icon: Home, end: true },
+  { to: '/events', label: 'Eventos', icon: CalendarDays, end: false },
+  { to: '/watch', label: 'Assistir', icon: PlayCircle, end: false },
   { to: '/live', label: 'Live', icon: Radio, end: false },
-  { to: '/more', label: 'More', icon: Menu, end: false },
+  { to: '/more', label: 'Mais', icon: Menu, end: false },
 ];
 
 export default function BottomNav() {
