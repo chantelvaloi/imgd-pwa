@@ -1,32 +1,32 @@
 [
   {
     "id": "evt-1",
-    "title": "Community Food Drive",
-    "date": "2026-08-29",
+    "title": "Construção de Vila - Kulula",
+    "date": "2026-05-10",
     "time": "09:00",
-    "location": "Main Hall",
-    "description": "Join us as we pack and distribute meal boxes for families in our neighborhood. All ages welcome — bring a friend and a box of canned goods if you can.",
-    "category": "Outreach",
+    "location": "Kulula - Boane, Moçambique",
+    "description": "Junte-se a nós na construção de uma vila para pessoas carenciadas, necessitadas e desemparadas. Contibua com o que poder, seja ajuda monetária, material, alimentação, transporte, força física. Toda a ajuda é bem-vinda, pois assim estaremos mostrando o amor de Cristo em nós para com os outros.",
+    "category": "Caridade",
     "image": "https://picsum.photos/seed/fooddrive/800/600"
   },
   {
     "id": "evt-2",
-    "title": "Young Adults Bonfire Night",
-    "date": "2026-09-04",
+    "title": "Construção de Casa - Xai-Xai",
+    "date": "2026-08-20",
     "time": "18:30",
-    "location": "Church Courtyard",
-    "description": "An evening of worship, s'mores, and honest conversation for ages 18-30. Bring a chair if you have one.",
-    "category": "Youth",
+    "location": "Xai-Xai",
+    "description": "O homem de Deus, Apostólo Jeque após a libertação de uma família de Xai-Xai, decidiu visitar a família e descobriu a situação deplorável a qual a família vivia. Comovido com a situação testemunhada, o Apostólo decidiu ajudar a família construindo-lhes uma casa para melhorar a situação precária que viviam. A casa ainda precisa de materiais de construção e outras logísticas do pessoal para a sua conclusão.",
+    "category": "Caridade",
     "image": "https://picsum.photos/seed/bonfire/800/600"
   },
   {
     "id": "evt-3",
-    "title": "Marriage Enrichment Workshop",
-    "date": "2026-09-12",
+    "title": "Retiro de Oração - Quebra da Maldição",
+    "date": "2026-09-02",
     "time": "10:00",
-    "location": "Room 204",
-    "description": "A half-day workshop for couples at any stage of marriage, led by Pastor James and Naomi Cole. Childcare provided.",
-    "category": "Family",
+    "location": "Bilene, Macia - Gaza",
+    "description": "O retiro de oração é um evento especial, onde o homem de Deus, junto com os irmãos tiram um tempo para dedicar a oração no Monte dos Mistérios em Bilene. E desta vez tem como título Quebra das Maldições. ",
+    "category": "Oração",
     "image": "https://picsum.photos/seed/marriage/800/600"
   },
   {

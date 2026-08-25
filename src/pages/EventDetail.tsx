@@ -31,7 +31,12 @@ export default function EventDetail() {
     );
   }
 
-  const dateLabel = new Date(event.date).toLocaleDateString('en-US', {
+  // const dateLabel = new Date(event.date).toLocaleDateString('en-US', {
+  //   weekday: 'long',
+  //   month: 'long',
+  //   day: 'numeric',
+  // });
+  const dateLabel = new Date(event.date).toLocaleDateString('pt-PT', {
     weekday: 'long',
     month: 'long',
     day: 'numeric',
@@ -39,7 +44,7 @@ export default function EventDetail() {
 
   return (
     <div>
-      <TopBar title="Event details" showBack />
+      <TopBar title="Detalhes do Evento" showBack />
       <img src={event.image} alt={event.title} className="w-full aspect-[4/3] object-cover" />
       <div className="px-4 py-5">
         <span className="inline-block text-[11px] font-semibold uppercase tracking-wide text-[var(--color-teal)] bg-[var(--color-teal)]/10 px-2 py-0.5 rounded-full mb-2">
@@ -69,7 +74,7 @@ export default function EventDetail() {
         </p>
 
         <button className="mt-6 w-full bg-[var(--color-ink)] text-white font-semibold py-3 rounded-xl active:scale-[0.99] transition-transform">
-          I'm going
+          Quero Participar
         </button>
         <p className="text-center text-xs text-[var(--color-ink)]/40 mt-2">
           RSVP is not connected yet — this is a prototype

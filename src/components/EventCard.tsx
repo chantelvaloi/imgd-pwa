@@ -4,7 +4,8 @@ import type { EventItem } from '../types';
 
 function formatDateBadge(dateStr: string) {
   const d = new Date(dateStr);
-  const month = d.toLocaleDateString('en-US', { month: 'short' }).toUpperCase();
+  // const month = d.toLocaleDateString('en-US', { month: 'short' }).toUpperCase();
+  const month = d.toLocaleDateString('pt-PT', { month: 'short' }).toUpperCase();
   const day = d.getDate();
   return { month, day };
 }

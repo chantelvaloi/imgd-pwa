@@ -155,5 +155,6 @@ function formatNextService(iso?: string) {
   const d = new Date(iso);
   const now = new Date();
   const isToday = d.toDateString() === now.toDateString();
-  return isToday ? 'today' : d.toLocaleDateString('en-US', { weekday: 'long' });
+  // return isToday ? 'today' : d.toLocaleDateString('en-US', { weekday: 'long' });
+  return isToday ? 'today' : d.toLocaleDateString('pt-PT', { weekday: 'long' });
 }
